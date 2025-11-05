@@ -303,3 +303,4 @@ indexexchange.com, 214183, RESELLER, 50b1c356f2c5c8fc
 themediagrid.com, NC7LXT, RESELLER, 35d5010d7789b49d
 outbrain.com, 0073fa86cff719c752763d2c3ee52c8f00, RESELLER
 video.unrulymedia.com, 657436911, RESELLER
+google.com, pub-7043418817930472, DIRECT, f08c47fec0942fa0
