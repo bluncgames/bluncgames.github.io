@@ -303,3 +303,4 @@ orangeclickmedia.com, c-1181, RESELLER
 zmaticoo.com, 5135195, RESELLER
 zmaticoo.com, 5135704, RESELLER
 zmaticoo.com, 5135063, RESELLER
+google.com, pub-7043418817930472, DIRECT, f08c47fec0942fa0
